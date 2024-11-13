@@ -1,0 +1,11 @@
+#Plsreadme
+
+This is my first time creating a readme.md by following a mix of some indian guys youtube tutorial and chatgpt. Hope it works!
+
+**Trying out bold letters**
+
+*Why doenst it get bold? :(*
+
+[Link Text](youtube.com/watch?v=QcZKsbgsLa4)
+
+
